@@ -12,4 +12,4 @@ Install the brew cask and other applications from the Brewfile
 
 This also installs gnustow. Which helps restore the config (wezterm, neovim)
 
-`stow -t ~/.config/ .`
+`stow -t ~ .`
